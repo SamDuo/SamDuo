@@ -10,7 +10,6 @@
 <h1 align="center">Sam M. Duong</h1>
 <p align="center">
   <b>Founding AI Engineer · GeoAI &amp; Spatial Intelligence</b><br/>
-  Building <a href="https://github.com/SamDuo/polymetron">Polymetron</a>, an AI native spatial intelligence engine for the built environment.
 </p>
 
 <p align="center">
