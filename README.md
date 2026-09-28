@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=1C5C84&center=true&vCenter=true&width=720&lines=GeoAI+that+shows+its+sources;and+checks+its+own+citations;Verification+%C2%B7+Urban+analytics+%C2%B7+Causal+inference" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=1C5C84&center=true&vCenter=true&width=720&lines=Explainable+Geospatial+AI;Urban+analytics+%C2%B7+Spatial+data+science;Causal+inference+for+the+built+environment" alt="typing"/>
 </p>
 
 ---
