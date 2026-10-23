@@ -1,6 +1,6 @@
 <h1 align="center">Sam M. Duong</h1>
 <p align="center">
-  <b>Cofounder &amp; Founding AI Engineer · GeoAI for Cities</b><br/>
+  <b>CTO &amp; Founding AI Engineer · GeoAI for Cities</b><br/>
 </p>
 
 <p align="center">
@@ -20,9 +20,10 @@
 
 |  |  |
 |---|---|
-| 🌍 Cofounder and Founding AI Engineer at **Polymetron**, GeoAI that reasons about the built environment instead of just mapping it | 🔎 I build the **verification layer**: adversarial and held-out evaluation, governance gates, replay harnesses |
+| 🌍 CTO and Founding AI Engineer at **Polymetron**, GeoAI that reasons about the built environment instead of just mapping it | 🔎 I build the **verification layer**: adversarial and held-out evaluation, governance gates, replay harnesses |
 | 🏙️ M.S. **Urban Analytics** (ML and Spatial Analysis) + M.S. **Computer Science** @ Georgia Tech | 🧠 **Explainable GeoAI**: gradient boosting with SHAP and GeoShapley, so every score shows its work |
 | 📄 Full paper **accepted at UrbanAI '26** (ACM SIGSPATIAL workshop) on where citation-bound verification fails | 🗺️ Atlanta-anchored, multi-city: metro Boston, Cambridge MA, Portsmouth VA, NYC, Tokyo |
+| 📐 Currently in the **MITx MicroMasters in Statistics and Data Science**, built by MIT IDSS | 🏛️ Civic work shipped **with** the people it affects: resident coalitions, nonprofits, city staff |
 
 ---
 
@@ -81,6 +82,7 @@
 | 📚 **[Smart Codes (CURA)](https://github.com/SamDuo/smart-codes-cura)** | Hybrid GraphRAG over a 10 city property regulation knowledge base |
 | 🤖 **[Nihonbashi Robot Sim](https://github.com/SamDuo/nihonbashi-robot-sim)** | Urban digital twin for heat risk aware service robots in Tokyo |
 | 🥬 **[Food Circular Network (GT ATL)](https://github.com/SamDuo/Food_Circular_Network_GT_ATL)** | 30 layer regional spatial database for the metro Atlanta food system |
+| 🚶 **[RideCheck ATL](https://github.com/SamDuo/ridecheck-atl)** | Door-to-door night trip safety companion, Atlanta Innovation Cup 2026. [Live →](https://ridecheck-atl.vercel.app) |
 
 **Recent analyses**
 
@@ -89,6 +91,11 @@
 | ⚡ **[grid-headroom-whatif](https://github.com/SamDuo/grid-headroom-whatif)** | EIA-930 data quality checks plus a data-center load what-if: 5.0 GW (SOCO), 3.8 GW (ERCOT), 1.3 GW (PSCO) of added peak at 0.5% penetration |
 | 📉 **[insurance-risk-glm](https://github.com/SamDuo/insurance-risk-glm)** | PySpark Poisson-Gamma GLM against an XGBoost challenger, plus a WoE credit scorecard with fairness testing |
 | 🚕 **[congestion-pricing-impact](https://github.com/SamDuo/congestion-pricing-impact)** | 344M NYC trips, triple-difference design: speeds up 5.1%, demand effect null, and four candidate stories killed by placebo tests |
+
+**Not public.** A lot of the current work sits in private repos because it is client,
+coalition or pre-publication: the 360citi civic platform (Cambridge MA), a Cambridge study
+workspace, the Portsmouth community wellbeing index, and a solar/outage equity study.
+Happy to walk through any of it.
 
 ---
 
