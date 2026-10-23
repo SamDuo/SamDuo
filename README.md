@@ -100,7 +100,7 @@ those are already public elsewhere; the pre-publication study stays vague on pur
 | | |
 |---|---|
 | **360citi · Cambridge MA** | Public civic evidence platform, 12,933 parcels and 261 zones, with a resident submission portal behind 1,161 tests. Next.js, TypeScript, Supabase, MapLibre, PMTiles. Built with a neighborhood coalition and a nonprofit. [Live →](https://www.360citi.org) |
-| **Portsmouth CWI** | Parcel-level community wellbeing index across 34,800 parcels, validated against CDC health outcomes with bootstrap confidence intervals and spatial robustness checks. Python, GeoPandas, PySAL. Manuscript in progress. |
+| **Portsmouth CWI** | Parcel-level community wellbeing index, 34,788 parcels, 16 indicators, weights from 111 resident rankings. Validated against CDC health outcomes with bootstrap CIs and spatial robustness checks. Manuscript held until submission; **[analysis code is public →](https://github.com/SamDuo/portsmouth-cwi-analysis)** |
 | **I2CE workspaces** | Multi-tenant research-lab tooling: Gantt planning, shared workbench, CSV import/export, probe-gated blue/green deploys. Next.js, Supabase, Playwright. [Live →](https://i2ce-workspace.vercel.app) |
 | **Solar and outage equity** | Outage-conditioned equity analysis for coastal Georgia. Pre-publication, so no detail here yet. |
 
