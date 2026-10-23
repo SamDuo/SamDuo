@@ -92,9 +92,18 @@
 | 📉 **[insurance-risk-glm](https://github.com/SamDuo/insurance-risk-glm)** | PySpark Poisson-Gamma GLM against an XGBoost challenger, plus a WoE credit scorecard with fairness testing |
 | 🚕 **[congestion-pricing-impact](https://github.com/SamDuo/congestion-pricing-impact)** | 344M NYC trips, triple-difference design: speeds up 5.1%, demand effect null, and four candidate stories killed by placebo tests |
 
-**Not public.** A lot of the current work sits in private repos because it is client,
-coalition or pre-publication: the 360citi civic platform (Cambridge MA), a Cambridge study
-workspace, the Portsmouth community wellbeing index, and a solar/outage equity study.
+**Working privately on**
+
+Client, coalition and pre-publication work lives in private repos. Scale and stack where
+those are already public elsewhere; the pre-publication study stays vague on purpose.
+
+| | |
+|---|---|
+| **360citi · Cambridge MA** | Public civic evidence platform, 12,933 parcels and 261 zones, with a resident submission portal behind 1,161 tests. Next.js, TypeScript, Supabase, MapLibre, PMTiles. Built with a neighborhood coalition and a nonprofit. [Live →](https://www.360citi.org) |
+| **Portsmouth CWI** | Parcel-level community wellbeing index across 34,800 parcels, validated against CDC health outcomes with bootstrap confidence intervals and spatial robustness checks. Python, GeoPandas, PySAL. Manuscript in progress. |
+| **I2CE workspaces** | Multi-tenant research-lab tooling: Gantt planning, shared workbench, CSV import/export, probe-gated blue/green deploys. Next.js, Supabase, Playwright. [Live →](https://i2ce-workspace.vercel.app) |
+| **Solar and outage equity** | Outage-conditioned equity analysis for coastal Georgia. Pre-publication, so no detail here yet. |
+
 Happy to walk through any of it.
 
 ---
