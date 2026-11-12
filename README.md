@@ -20,8 +20,8 @@
 
 |  |  |
 |---|---|
-| 🌍 CTO and Founding AI Engineer at **Polymetron**, GeoAI that reasons about the built environment instead of just mapping it | 🔎 I build the **verification layer**: adversarial and held-out evaluation, governance gates, replay harnesses |
-| 🏙️ M.S. **Urban Analytics** (ML and Spatial Analysis) + M.S. **Computer Science** @ Georgia Tech | 🧠 **Explainable GeoAI**: gradient boosting with SHAP and GeoShapley, so every score shows its work |
+| 🌍 Founding AI Engineer at **Polymetron**, GeoAI that reasons about the built environment instead of just mapping it | 🔎 I build the **verification layer**: adversarial and held-out evaluation, governance gates, replay harnesses |
+| 🏙️ M.S. **Urban Analytics** (ML and Spatial Analysis) + M.S. **Computer Science** @ Georgia Tech | 🧠 **Explainable GeoAI** |
 | 📄 Full paper **accepted at UrbanAI '26** (ACM SIGSPATIAL workshop) on where citation-bound verification fails | 🗺️ Atlanta-anchored, multi-city: metro Boston, Cambridge MA, Portsmouth VA, NYC, Tokyo |
 | 📐 Currently in the **MITx MicroMasters in Statistics and Data Science**, built by MIT IDSS | 🏛️ Civic work shipped **with** the people it affects: resident coalitions, nonprofits, city staff |
 
