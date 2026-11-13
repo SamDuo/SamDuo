@@ -1,6 +1,6 @@
 <h1 align="center">Sam M. Duong</h1>
 <p align="center">
-  <b>CTO &amp; Founding AI Engineer · GeoAI for Cities</b><br/>
+  <b>Founding AI Engineer · AI for the Built Environment</b><br/>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 |---|---|
 | 🌍 Founding AI Engineer at **Polymetron**, GeoAI that reasons about the built environment instead of just mapping it | 🔎 I build the **verification layer**: adversarial and held-out evaluation, governance gates, replay harnesses |
 | 🏙️ M.S. **Urban Analytics** (ML and Spatial Analysis) + M.S. **Computer Science** @ Georgia Tech | 🧠 **Explainable GeoAI** |
-| 📄 Full paper **accepted at UrbanAI '26** (ACM SIGSPATIAL workshop) on where citation-bound verification fails | 🗺️ Atlanta-anchored, multi-city: metro Boston, Cambridge MA, Portsmouth VA, NYC, Tokyo |
+| 📄 Full paper **presented at UrbanAI '26** (ACM SIGSPATIAL workshop) on where citation-bound verification fails | 🗺️ Atlanta-anchored, multi-city: metro Boston, Cambridge MA, Portsmouth VA, NYC, Tokyo |
 | 📐 Currently in the **MITx MicroMasters in Statistics and Data Science**, built by MIT IDSS | 🏛️ Civic work shipped **with** the people it affects: resident coalitions, nonprofits, city staff |
 
 ---
@@ -77,7 +77,7 @@
 
 | Project | What it is |
 |---|---|
-| 🛰️ **[Polymetron · UrbanAI '26 artifact](https://github.com/SamDuo/polymetron-urbanai26-artifact)** | The accepted paper's code and reproduction kit: where citation-bound verification fails, and the governance gate that catches it. [Live demo →](https://polymetron-next.vercel.app) |
+| 🛰️ **[Polymetron · UrbanAI '26 artifact](https://github.com/SamDuo/polymetron-urbanai26-artifact)** | The paper's code and reproduction kit: where citation-bound verification fails, and the governance gate that catches it. [Live demo →](https://polymetron-next.vercel.app) |
 | 🧭 **[PolyScape](https://github.com/SamDuo/polyscape)** | Multiscale GeoAI for comparative site selection (XGBoost with TreeSHAP and GeoShapley) |
 | 📚 **[Smart Codes (CURA)](https://github.com/SamDuo/smart-codes-cura)** | Hybrid GraphRAG over a 10 city property regulation knowledge base |
 | 🤖 **[Nihonbashi Robot Sim](https://github.com/SamDuo/nihonbashi-robot-sim)** | Urban digital twin for heat risk aware service robots in Tokyo |
